@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://www.comicsbeat.com/wp-content/uploads/2021/08/scoprion-feature.jpg" alt="ScorpionBacground" height=300>
+</p>
 <h1 align="center">Hi 👋, I'm clawzae</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
 <img align="right" alt="Scorpion" width="500" src="https://media.tenor.com/arU1zVjqPtYAAAAC/scorpion-mortal-kombat-legends.gif"
