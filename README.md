@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.comicsbeat.com/wp-content/uploads/2021/08/scoprion-feature.jpg" alt="ScorpionBacground" height=300>
+  <img src="https://www.comicsbeat.com/wp-content/uploads/2021/08/scoprion-feature.jpg" alt="ScorpionBacground" width=100%>
 </p>
 <h1 align="center">Hi 👋, I'm clawzae</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
