@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 📫 How to reach me **clawzae@gmail.com**
+- 📫 How to reach me **clawzaep@gmail.com**
 
 - ⚡ Fun fact **I am an Editor**
 
